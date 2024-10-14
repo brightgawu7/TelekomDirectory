@@ -1,0 +1,689 @@
+[
+    {
+        "id": "2f6f1c9e-73b7-4f3c-83e5-3af7edc59068",
+        "name": "Alice Marie Johnson",
+        "position": "Senior Data Analyst",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Deutschland GmbH",
+            "country": "Germany",
+            "street": "Friedrichstrasse 43",
+            "city": "Berlin"
+        },
+        "team": {
+            "id": "9f7c4d36-bb60-4dd5-9f70-7859d6c058bb",
+            "name": "Data Science Team"
+        },
+        "email": "alice.johnson@telekom.de",
+        "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg",
+        "phone": "+49-30-987-6543"
+    },
+    {
+        "id": "8e7ddf97-bb6b-42be-b199-f3084548b408",
+        "name": "Bob Lee",
+        "position": "Software Engineer",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom UK Limited",
+            "country": "United Kingdom",
+            "street": "1st Avenue",
+            "city": "London"
+        },
+        "team": {
+            "id": "9f7c4d36-bb60-4dd5-9f70-7859d6c058bb",
+            "name": "Data Science Team"
+        },
+        "email": "bob.lee@telekom.co.uk",
+        "image": "https://images.pexels.com/photos/445109/pexels-photo-445109.jpeg",
+        "phone": null
+    },
+    {
+        "id": "3e7e8f77-a7bb-4d8c-bf00-6fb8d658b0ef",
+        "name": "Charlotte Grace Mitchell",
+        "position": "Product Manager",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom USA LLC",
+            "country": "United States",
+            "street": "500 Park Avenue",
+            "city": "New York"
+        },
+           "team": {
+            "id": "9f7c4d36-bb60-4dd5-9f70-7859d6c058bb",
+            "name": "Data Science Team"
+        },
+        "email": null,
+        "image": "https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg",
+        "phone": "+1-212-555-9876"
+    },
+    {
+        "id": "6b7f9c5d-9bbf-4c4a-9891-cc8d9a235bc1",
+        "name": "Daniel Edward Thompson",
+        "position": "Marketing Specialist",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Italia S.p.A.",
+            "country": "Italy",
+            "street": "Via Roma 24",
+            "city": "Milan"
+        },
+           "team": {
+            "id": "9f7c4d36-bb60-4dd5-9f70-7859d6c058bb",
+            "name": "Data Science Team"
+        },
+
+        "email": "daniel.thompson@telekom.it",
+        "image": null,
+        "phone": null
+    },
+    {
+        "id": "5f3a7f83-3a99-4bb3-b993-4f3c93dcff57",
+        "name": "Eva Marie Clarke",
+        "position": "HR Coordinator",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom France S.A.",
+            "country": "France",
+            "street": "Rue Saint-Honoré",
+            "city": "Paris"
+        },
+         "team": {
+            "id": "9f7c4d36-bb60-4dd5-9f70-7859d6c058bb",
+            "name": "Data Science Team"
+        },
+        "email": null,
+        "image": null,
+        "phone": "+33-1-234-5678"
+    },
+    {
+        "id": "e9c9841a-b4bf-43a6-9452-4452ef7a0b8b",
+        "name": "Frankie George Adams",
+        "position": "Network Architect",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Poland Sp. z o.o.",
+            "country": "Poland",
+            "street": "Warsaw St.",
+            "city": "Warsaw"
+        },
+       "team": {
+            "id": "7b7c7e0b-fd32-4f3e-bf17-d7b75640a44a",
+            "name": "Product Innovation Team"
+        },
+        "email": "frankie.adams@telekom.pl",
+        "image": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg",
+        "phone": null
+    },
+    {
+        "id": "ba18b783-3f7d-4a94-9f5f-f6a3be6b5e17",
+        "name": "Georgia Anne Bennett",
+        "position": "Operations Manager",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Spain S.A.",
+            "country": "Spain",
+            "street": "Gran Via",
+            "city": "Madrid"
+        },
+        "team": {
+            "id": "f0b8428a-c7b6-4340-9f8d-56fbb9af7b2e",
+            "name": "Operations Team"
+        },
+        "email": "georgia.bennett@telekom.es",
+        "image": null,
+        "phone": "+34-91-123-4567"
+    },
+    {
+        "id": "d8f6f91c-e31d-42f4-9839-9f7a1c928748",
+        "name": "Harrison John Evans",
+        "position": "Business Analyst",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Netherlands B.V.",
+            "country": "Netherlands",
+            "street": "Damrak",
+            "city": "Amsterdam"
+        },
+        "team": {
+            "id": "ee829d1a-7922-441b-90e5-e1c96d5b0f8c",
+            "name": "Business Intelligence Team"
+        },
+        "email": null,
+        "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg",
+        "phone": "+31-20-789-4321"
+    },
+    {
+        "id": "a7b29d9b-05b8-4e3d-8b48-b2c33d7fb55f",
+        "name": "Isla Rose Walker",
+        "position": "UX/UI Designer",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Australia Pty Ltd",
+            "country": "Australia",
+            "street": "George St",
+            "city": "Sydney"
+        },
+        "team": {
+            "id": "3d9b92b7-8eb6-4d89-b1f4-0fb9a8b10f2e",
+            "name": "Design Team"
+        },
+        "email": "isla.walker@telekom.au",
+        "image": null,
+        "phone": null
+    },
+    {
+        "id": "394ff58f-b750-4e2b-aebf-854c542e8d95",
+        "name": "Jack Henry Carter",
+        "position": "Project Manager",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom New Zealand Limited",
+            "country": "New Zealand",
+            "street": "Queen St",
+            "city": "Auckland"
+        },
+        "team": {
+            "id": "d9b3a54e-8753-4b7d-92fc-647d46a7e5c7",
+            "name": "Project Management Team"
+        },
+        "email": "jack.carter@telekom.nz",
+        "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg",
+        "phone": "+64-9-123-6543"
+    },
+    {
+        "id": "2bfb5ab2-4b70-4fa3-9421-c34c6ecbe49f",
+        "name": "Katherine Jane Green",
+        "position": "Legal Advisor",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Belgium S.A.",
+            "country": "Belgium",
+            "street": "Rue de la Loi",
+            "city": "Brussels"
+        },
+        "team": {
+            "id": "5a779fc6-1a8d-47d7-bffb-13c4b1eb8c5b",
+            "name": "Legal Team"
+        },
+        "email": null,
+        "image": "https://images.pexels.com/photos/1236684/pexels-photo-1236684.jpeg",
+        "phone": "+32-2-123-4567"
+    },
+
+    {
+        "id": "43fca1a9-60b9-40fa-bf99-bd3d46535d5e",
+        "name": "Lucas Oliver Barnes",
+        "position": "Solutions Architect",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Switzerland AG",
+            "country": "Switzerland",
+            "street": "Bahnhofplatz 1",
+            "city": "Zurich"
+        },
+        "team": {
+            "id": "7fa9e26e-dca5-4a23-8de5-b0ba941469a4",
+            "name": "Solutions Team"
+        },
+        "email": "lucas.barnes@telekom.ch",
+        "image": "https://images.pexels.com/photos/6802049/pexels-photo-6802049.jpeg",
+        "phone": "+41-44-123-4567"
+    },
+    {
+        "id": "d60b237b-77bc-42f4-84fa-b97e7d658276",
+        "name": "Mia Sophia Allen",
+        "position": "Data Engineer",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Portugal S.A.",
+            "country": "Portugal",
+            "street": "Avenida da Liberdade",
+            "city": "Lisbon"
+        },
+        "team": {
+            "id": "110d6270-0b74-485d-bb27-bb6b2518e1d0",
+            "name": "Data Engineering Team"
+        },
+        "email": "mia.allen@telekom.pt",
+        "image": "https://images.pexels.com/photos/936572/pexels-photo-936572.jpeg",
+        "phone": "+351-21-123-4567"
+    },
+    {
+        "id": "b5fe6e6f-27d9-4671-92be-bbc1e9b5c521",
+        "name": "Noah Jackson Lee",
+        "position": "Customer Success Manager",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Norway AS",
+            "country": "Norway",
+            "street": "Karl Johans gate 45",
+            "city": "Oslo"
+        },
+        "team": {
+            "id": "c4010b3d-6fdb-42e6-b568-98c6933d0b45",
+            "name": "Customer Success Team"
+        },
+        "email": "noah.lee@telekom.no",
+        "image": "https://images.pexels.com/photos/2174559/pexels-photo-2174559.jpeg",
+        "phone": "+47-22-123-4567"
+    },
+    {
+        "id": "7f22b1c6-e16f-4006-9ab2-6f4c5d1c1d29",
+        "name": "Olivia Rose Walker",
+        "position": "Business Development Lead",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Denmark A/S",
+            "country": "Denmark",
+            "street": "Strandgade 55",
+            "city": "Copenhagen"
+        },
+        "team": {
+            "id": "ba742ec4-c2de-4b93-b0e6-a174400a944e",
+            "name": "Business Development Team"
+        },
+        "email": "olivia.walker@telekom.dk",
+        "image": "https://images.pexels.com/photos/5989504/pexels-photo-5989504.jpeg",
+        "phone": "+45-32-123-4567"
+    },
+    {
+        "id": "9a2a6a6b-2b53-4b64-8aab-90ed9c643b84",
+        "name": "Paul Anthony Rodriguez",
+        "position": "Product Owner",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Sweden AB",
+            "country": "Sweden",
+            "street": "Drottninggatan 78",
+            "city": "Stockholm"
+        },
+        "team": {
+            "id": "6d81bc62-26bc-4b98-a42f-9c83f38a1315",
+            "name": "Product Team"
+        },
+        "email": "paul.rodriguez@telekom.se",
+        "image": null,
+        "phone": "+46-8-123-4567"
+    },
+    {
+        "id": "568d7d6b-9ebd-4e34-bf0f-01845f3c0f57",
+        "name": "Quinn Rachel Hughes",
+        "position": "IT Support Specialist",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Austria AG",
+            "country": "Austria",
+            "street": "Schwedenplatz 2",
+            "city": "Vienna"
+        },
+        "team": {
+            "id": "87df86b9-b1f6-4a54-bb78-c9cde1b1953c",
+            "name": "IT Support Team"
+        },
+        "email": null,
+        "image": "https://images.pexels.com/photos/5560927/pexels-photo-5560927.jpeg",
+        "phone": "+43-1-234-5678"
+    },
+    {
+        "id": "7df6bc43-bef6-4fb3-b8b5-62b4e942dbf7",
+        "name": "Riley Benjamin Turner",
+        "position": "Sales Executive",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Greece S.A.",
+            "country": "Greece",
+            "street": "Syntagma Square",
+            "city": "Athens"
+        },
+        "team": {
+            "id": "b8c0918c-1db6-4a3c-bd35-635d9e957b4c",
+            "name": "Sales Team"
+        },
+        "email": "riley.turner@telekom.gr",
+        "image": null,
+        "phone": "+30-21-123-4567"
+    },
+    {
+        "id": "b64e3d19-885f-4b71-8d4a-b870c31a5acb",
+        "name": "Sarah Charlotte Hayes",
+        "position": "Finance Manager",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Ireland",
+            "country": "Ireland",
+            "street": "O'Connell St.",
+            "city": "Dublin"
+        },
+        "team": {
+            "id": "554a2329-1c84-4e92-b14c-53f8d0c6c3b3",
+            "name": "Finance Team"
+        },
+        "email": "sarah.hayes@telekom.ie",
+        "image": "https://images.pexels.com/photos/669598/pexels-photo-669598.jpeg",
+        "phone": "+353-1-234-5678"
+    },
+    {
+        "id": "b229d7ab-d2b5-4d3b-a6c0-99b28b93713e",
+        "name": "Thomas Luke Scott",
+        "position": "DevOps Engineer",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Czech Republic",
+            "country": "Czech Republic",
+            "street": "Wenceslas Square",
+            "city": "Prague"
+        },
+        "team": {
+            "id": "e6b846a7-d3e7-4376-9311-06b17e491aad",
+            "name": "DevOps Team"
+        },
+        "email": null,
+        "image": "https://images.pexels.com/photos/703147/pexels-photo-703147.jpeg",
+        "phone": "+420-22-123-4567"
+    },
+    {
+        "id": "d2a36d42-0ac9-4c4e-b216-cb8cf9b2e8d6",
+        "name": "Uma Emilia Fischer",
+        "position": "Cloud Engineer",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Romania S.A.",
+            "country": "Romania",
+            "street": "Calea Victoriei",
+            "city": "Bucharest"
+        },
+        "team": {
+            "id": "b2b2bbdd-d987-4d43-b3ff-80ebcc167264",
+            "name": "Cloud Infrastructure Team"
+        },
+        "email": "uma.fischer@telekom.ro",
+        "image": null,
+        "phone": "+40-21-123-4567"
+    },
+    {
+        "id": "d8fef10f-d380-470b-a86c-0ed8d39b67fe",
+        "name": "Victor David Harrison",
+        "position": "Software Engineer",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Belgium NV",
+            "country": "Belgium",
+            "street": "Avenue Louise 54",
+            "city": "Brussels"
+        },
+        "team": {
+            "id": "4ebc7721-e0a9-4e5b-bf5d-c053e61c1ed3",
+            "name": "Software Development Team"
+        },
+        "email": "victor.harrison@telekom.be",
+        "image": "https://images.pexels.com/photos/2379002/pexels-photo-2379002.jpeg",
+        "phone": "+32-2-345-6789"
+    },
+    {
+        "id": "57459077-572e-43b2-b5b2-bc13b79a620b",
+        "name": "William James Williams",
+        "position": "HR Specialist",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Netherlands",
+            "country": "Netherlands",
+            "street": "Damrak 10",
+            "city": "Amsterdam"
+        },
+        "team": {
+            "id": "4f3d6c7f-0d0e-4749-89dd-d63e6ac201be",
+            "name": "Human Resources Team"
+        },
+        "email": "william.williams@telekom.nl",
+        "image": "https://images.pexels.com/photos/1293569/pexels-photo-1293569.jpeg",
+        "phone": "+31-20-123-4567"
+    },
+    {
+        "id": "3546346f-accf-4b68-8f84-85b3cfbc6df3",
+        "name": "Zoe Alexander Taylor",
+        "position": "Marketing Specialist",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Finland",
+            "country": "Finland",
+            "street": "Kallio 15",
+            "city": "Helsinki"
+        },
+        "team": {
+            "id": "d1d23b91-bb88-4b93-becb-c22212680b94",
+            "name": "Marketing Team"
+        },
+        "email": "zoe.taylor@telekom.fi",
+        "image": "https://images.pexels.com/photos/3807892/pexels-photo-3807892.jpeg",
+        "phone": "+358-9-123-4567"
+    },
+    {
+        "id": "0feaa758-aef5-43ca-9de7-643cfb19502b",
+        "name": "Henry Elijah Thompson",
+        "position": "Business Analyst",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Italy",
+            "country": "Italy",
+            "street": "Piazza del Duomo 12",
+            "city": "Milan"
+        },
+        "team": {
+            "id": "09c225c1-5d5f-4d67-9077-8c3f03fef02a",
+            "name": "Business Analysis Team"
+        },
+        "email": "henry.thompson@telekom.it",
+        "image": "https://images.pexels.com/photos/3671691/pexels-photo-3671691.jpeg",
+        "phone": "+39-02-123-4567"
+    },
+    {
+        "id": "8c2a3f3d-6352-43f2-9989-18d3c6a660c7",
+        "name": "Ella Jordan Foster",
+        "position": "Digital Marketing Lead",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Spain S.A.",
+            "country": "Spain",
+            "street": "Gran Via 45",
+            "city": "Madrid"
+        },
+        "team": {
+            "id": "5ca3b926-cc3d-4bda-bf89-85b18a0bfb66",
+            "name": "Digital Marketing Team"
+        },
+        "email": "ella.foster@telekom.es",
+        "image": "https://images.pexels.com/photos/5733935/pexels-photo-5733935.jpeg",
+        "phone": "+34-91-123-4567"
+    },
+
+    {
+        "id": "b4d38354-50e7-47d1-9678-ef1c9643cd24",
+        "name": "Mia Grace Lawrence",
+        "position": "UX Designer",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom UK",
+            "country": "United Kingdom",
+            "street": "Farringdon Road 25",
+            "city": "London"
+        },
+        "team": {
+            "id": "7c1d7b5f-9b63-4d3f-8b42-ea093de0f4a4",
+            "name": "Design Team"
+        },
+        "email": "mia.lawrence@telekom.co.uk",
+        "image": "https://images.pexels.com/photos/3496256/pexels-photo-3496256.jpeg",
+        "phone": "+44-20-123-4567"
+    },
+    {
+        "id": "97cf6e6d-04b0-4d47-820a-dc1d6cdbe62c",
+        "name": "Lucas Benjamin Moore",
+        "position": "Project Manager",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Austria",
+            "country": "Austria",
+            "street": "Kärntnertorstraße 5",
+            "city": "Vienna"
+        },
+        "team": {
+            "id": "23db65d0-2c0e-4b52-a545-b544b34f4d4e",
+            "name": "Project Management Team"
+        },
+        "email": "lucas.moore@telekom.at",
+        "image": "https://images.pexels.com/photos/2261476/pexels-photo-2261476.jpeg",
+        "phone": "+43-1-234-5678"
+    },
+    {
+        "id": "1c06225b-4be1-4f18-9f9c-48b58d4686db",
+        "name": "Sophie Emma Carter",
+        "position": "Product Manager",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Switzerland",
+            "country": "Switzerland",
+            "street": "Bahnhofstrasse 80",
+            "city": "Zurich"
+        },
+        "team": {
+            "id": "cc8a40e9-d5b9-42d5-bdd5-b5c15b0f7f85",
+            "name": "Product Management Team"
+        },
+        "email": "sophie.carter@telekom.ch",
+        "image": "https://images.pexels.com/photos/2067047/pexels-photo-2067047.jpeg",
+        "phone": "+41-44-567-8901"
+    },
+    {
+        "id": "f4a5ff9f-5cb1-4b75-8536-e421a3d6ebed",
+        "name": "Ethan Alexander Turner",
+        "position": "Full Stack Developer",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Denmark",
+            "country": "Denmark",
+            "street": "Strandgade 19",
+            "city": "Copenhagen"
+        },
+        "team": {
+            "id": "97bc687d-e9fe-47f1-965b-72061c2a4629",
+            "name": "Development Team"
+        },
+        "email": "ethan.turner@telekom.dk",
+        "image": "https://images.pexels.com/photos/4060303/pexels-photo-4060303.jpeg",
+        "phone": "+45-30-123-4567"
+    },
+    {
+        "id": "7b49069c-b9f2-4329-bf5d-75a75e0dd132",
+        "name": "Grace Olivia Mitchell",
+        "position": "Operations Manager",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Portugal",
+            "country": "Portugal",
+            "street": "Avenida da Liberdade 120",
+            "city": "Lisbon"
+        },
+        "team": {
+            "id": "c7a1b041-4f09-42db-8a49-dbe0e9ddf5a6",
+            "name": "Operations Team"
+        },
+        "email": "grace.mitchell@telekom.pt",
+        "image": "https://images.pexels.com/photos/3992831/pexels-photo-3992831.jpeg",
+        "phone": "+351-21-234-5678"
+    },
+    {
+        "id": "87c7a4b6-5f16-4cd2-9a5b-2a2e35e4cc3d",
+        "name": "Isaac James Anderson",
+        "position": "Security Engineer",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Sweden",
+            "country": "Sweden",
+            "street": "Sveavägen 47",
+            "city": "Stockholm"
+        },
+        "team": {
+            "id": "e18f55c7-20f9-4bb3-a2c3-ea618456a8c0",
+            "name": "Security Team"
+        },
+        "email": "isaac.anderson@telekom.se",
+        "image": "https://images.pexels.com/photos/3408749/pexels-photo-3408749.jpeg",
+        "phone": "+46-8-123-4567"
+    },
+    {
+        "id": "fe045f85-df00-4e02-8c9a-b78bc58f7d6d",
+        "name": "Lily Grace Davis",
+        "position": "Data Scientist",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Ireland",
+            "country": "Ireland",
+            "street": "O'Connell Street 45",
+            "city": "Dublin"
+        },
+        "team": {
+            "id": "c6b557d4-b116-4a9e-a1f6-7b9b3c5b9b61",
+            "name": "Data Science Team"
+        },
+        "email": "lily.davis@telekom.ie",
+        "image": "https://images.pexels.com/photos/2995707/pexels-photo-2995707.jpeg",
+        "phone": "+353-1-234-5678"
+    },
+    {
+        "id": "18a97070-e8e1-4a35-8d30-bf5cb5d62788",
+        "name": "Noah Liam Ward",
+        "position": "Software Engineer",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom Belgium NV",
+            "country": "Belgium",
+            "street": "Rue de la Loi 5",
+            "city": "Brussels"
+        },
+        "team": {
+            "id": "9f76d05d-7f57-4edb-9b93-b9cf5ab50745",
+            "name": "Engineering Team"
+        },
+        "email": "noah.ward@telekom.be",
+        "image": "https://images.pexels.com/photos/2726366/pexels-photo-2726366.jpeg",
+        "phone": "+32-2-654-3210"
+    },
+    {
+        "id": "a2fb40ff-5b7d-4ddf-b42a-3ca7f7ff52c5",
+        "name": "Evelyn Rose Johnson",
+        "position": "Product Designer",
+        "employeeType": "internal",
+        "address": {
+            "office": "Telekom Germany",
+            "country": "Germany",
+            "street": "Unter den Linden 14",
+            "city": "Berlin"
+        },
+        "team": {
+            "id": "3eb3a401-7b42-4323-bf76-8dd05f64ca5b",
+            "name": "Design Team"
+        },
+        "email": "evelyn.johnson@telekom.de",
+        "image": "https://images.pexels.com/photos/1599249/pexels-photo-1599249.jpeg",
+        "phone": "+49-30-123-4567"
+    },
+    {
+        "id": "1d36e0d3-ae65-412b-88aa-dc47b7b6001f",
+        "name": "Jack William Brown",
+        "position": "Business Development Manager",
+        "employeeType": "external",
+        "address": {
+            "office": "Telekom France",
+            "country": "France",
+            "street": "Avenue des Champs-Élysées 55",
+            "city": "Paris"
+        },
+        "team": {
+            "id": "4d8b3cb4-d3b0-47ed-9b53-a07e3ca3d850",
+            "name": "Business Development Team"
+        },
+        "email": "jack.brown@telekom.fr",
+        "image": "https://images.pexels.com/photos/3514111/pexels-photo-3514111.jpeg",
+        "phone": "+33-1-234-5678"
+    }
+]
